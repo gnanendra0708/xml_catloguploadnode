@@ -1,0 +1,18 @@
+{
+  "name": "xml_catloguploadnode",
+  "version": "1.0.0",
+  "description": "watching files from watcher to done",
+  "main": "watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "ftp-watcher": "0.0.6",
+    "moment": "^2.24.0",
+    "mv": "^2.1.1",
+    "request": "^2.88.2"
+  }
+}
